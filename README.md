@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Bhavesh | Acharya | Powerful ?! | Coder </h1>
+<h1 align="center">Hello, I'm Bhavesh Acharya | Powerful ?! | Coder </h1>
 <h3 align="center">A passionate Cyber Security developer from Raj. India</h3>
 <img align="right" alt="coding" width="300" src= https://loremflickr.com/200/200?random=1
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellopapri&label=Profile%20views&color=0e75b6&style=flat" alt="RICH-OWL" /> </p>
